@@ -7,4 +7,5 @@ enum class Veh_Version
     MK_2,
 };
 
+
 #endif // !_TYPES_HPP_
